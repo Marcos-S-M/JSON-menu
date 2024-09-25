@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ScpConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <resolucao>
+    <width>3440</width>
+    <height>1440</height>
+  </resolucao>
+  <limiteFPS>
+    <limitar>false</limitar>
+    <fps>60</fps>
+  </limiteFPS>
+  <qualidade>Alta</qualidade>
+  <modoJanela>false</modoJanela>
+  <autoSave>true</autoSave>
+  <geralVolume>0.307142854</geralVolume>
+  <musicaVolume>0</musicaVolume>
+  <efeitosVolume>0</efeitosVolume>
+</ScpConfig>
